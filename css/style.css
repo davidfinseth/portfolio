@@ -14,7 +14,7 @@
 	}
 
 body {
-	background: #ffffff;
+	background: #384452; 
 	margin: 0;
 	height: 100%;
 	color: #384452;
@@ -78,7 +78,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 70px;
+	min-height: 80px;
 	padding-top: 10px;
 	margin-bottom: 0px;
 }
@@ -211,9 +211,9 @@ a:focus {
 
 #headerwrap {
 	background-color: #00b3fe;
-	min-height: 550px;
-	padding-top: 100px;
-	padding-bottom: 0px;
+	min-height: 250px;
+	padding-top: 75px;
+	padding-bottom: 25px;
 	text-align: center;
 }
 
